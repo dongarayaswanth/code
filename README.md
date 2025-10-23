@@ -10,7 +10,8 @@ This repository contains solutions to various LeetCode problems implemented in P
 | 14             | Longest Common Prefix - Finding Longest Common prefix in a List                                                           | 
 | 206            | Reverse LinkedList - To Reverse a LinkedList                                                                              | 
 | 2011           | Final value - Returning Final Value after performing increment and decrement operations on a list based on the condition  |                                                                                                 
-| 28             | Finding the Substring Index in a String    
+| 28             | Finding the Substring Index in a String                                                                                   |
+| 12             | Integer to Roman number coversion                                                                                         |
 ## Overview
 
 This project is a collection of LeetCode solutions, demonstrating problem-solving techniques and Python coding skills.  Each solution is designed to be clean, readable, and efficient.
